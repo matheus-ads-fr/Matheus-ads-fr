@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Matheus Ferreira 👋
 
-<!--
-**matheus-ads-fr/Matheus-ads-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+🎯 Objetivo:
+Ingressar na área de tecnologia e construir carreira como DevOps Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou estudando
+
+- JavaScript
+- HTML
+- CSS
+- Git e GitHub
+- SQL
+- Java
+- Linux
+- Docker (em breve)
+- AWS (em breve)
+
+## Projetos
+
+📌 Exercícios de Lógica de Programação
+
+## Contato
+
+- LinkedIn: Matheus ferreira
+- E-mail: Matheus.ads.fr@gmail.com
