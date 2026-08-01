@@ -23,5 +23,5 @@ Ingressar na área de tecnologia e construir carreira como DevOps Engineer.
 
 ## Contato
 
-- LinkedIn: Matheus ferreira
+- LinkedIn: www.linkedin.com/in/matheus-ferreira01
 - E-mail: Matheus.ads.fr@gmail.com
