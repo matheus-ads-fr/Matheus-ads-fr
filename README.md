@@ -14,12 +14,11 @@ Ingressar na área de tecnologia e construir carreira como DevOps Engineer.
 - SQL
 - Java
 - Linux
-- Docker (em breve)
-- AWS (em breve)
 
 ## Projetos
 
-📌 Exercícios de Lógica de Programação
+📌 Coleção de exercícios resolvidos em JavaScript durante minha formação em ADS. 
+  Cada desafio representa minha evolução em lógica de programação.
 
 ## Contato
 
